@@ -17,7 +17,6 @@
         * [Verifying Results of the "Best" Model](#verifying-results-of-the-best-model)
     * [Using the Model to Learn Best Positioning Practices from Pro Players](#using-the-model-to-learn-best-positioning-practices-from-pro-players)
 * [Conclusion, Areas of Improvement, and Future Work](#conclusion-areas-of-improvement-and-future-work)
-* [Appendix](#appendix)
     
 
 ## <center>Introduction<center> <a id="introduction"></a>
